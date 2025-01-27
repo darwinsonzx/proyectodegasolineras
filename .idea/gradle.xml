@@ -4,7 +4,11 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/gasolineradarwinson/gasolineradarwinson" />
-        <option name="gradleJvm" value="openjdk-23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/gasolineradarwinson/gasolineradarwinson" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>
