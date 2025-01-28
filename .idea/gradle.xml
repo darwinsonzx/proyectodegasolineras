@@ -3,10 +3,10 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/gasolineradarwinson/gasolineradarwinson" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gasolineradarwinson" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/gasolineradarwinson/gasolineradarwinson" />
+            <option value="$PROJECT_DIR$/gasolineradarwinson" />
           </set>
         </option>
       </GradleProjectSettings>
